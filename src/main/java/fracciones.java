@@ -1,6 +1,8 @@
 public class fracciones {
 int numerador, denominador;
 
+    double hola;
+
 
     public fracciones(int numerador, int nominador) {
         this.numerador = numerador;
